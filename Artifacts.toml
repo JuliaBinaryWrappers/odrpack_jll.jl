@@ -1,126 +1,126 @@
 [[odrpack]]
 arch = "aarch64"
-git-tree-sha1 = "0476f5dad2d9c9db565c042197597924dac254af"
+git-tree-sha1 = "5509eafd2b070bef8bc748e729b9f13a51972031"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[odrpack.download]]
-    sha256 = "8e3c82b4a54dd67603dedf623a0e2aefade71a3b212036e44b136da054fbbcc7"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "16fc4ed8f4adddf54a996fdfb6aa5639b39f463d69b2976562328501e99a38f4"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "aarch64"
-git-tree-sha1 = "ae2861feee222d823a48087786aef40595d1698a"
+git-tree-sha1 = "73854a1cf94e7cef7e3e5640faf22d45f70377a1"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[odrpack.download]]
-    sha256 = "d88e998726c5ca18c2f5984bba32cb270c01bd4000450a84c2e4cecbda5f40f7"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "c4b0654a3f80ecbd40f729951b288e52f3c410d207a919515ac8758dd8bb8709"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "aarch64"
-git-tree-sha1 = "d6d1c017e645bfff7856b612b791dfe67461e271"
+git-tree-sha1 = "a2a1b9a5a6e1a602d51441385e4414cad4129df6"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[odrpack.download]]
-    sha256 = "8cd1ca1c6dc22331acf32e6fb75800338cf36f2241e1dd7bd6a4349195f1b2a2"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "4a8ba6c720a0c3a0a10a5189de5881576adf2cc982b02c6bf3cf7487a26f99fe"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "0ca981420f026dccc73975cd9ea8b0e8f9aa82c5"
+git-tree-sha1 = "72f162c4bc536dd7a0d2e0df2857740be1513949"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[odrpack.download]]
-    sha256 = "a7d53f21ef9cd61a0a1b0918c6244135e37697030df53ed039cf8e21ff3fcb0b"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "6cd60b499d404a8aa361b6f69de311fd1d148eac2f985405479648152d78e6d9"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d56a0b10c822674a8d8e7d7359fd55067b09fa66"
+git-tree-sha1 = "71d41f6686a1edfda851b96ee664164ff6e5f642"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[odrpack.download]]
-    sha256 = "bfc8d903438ff09ecc54d1f512f781e8755ac1f39f9c621f794149203c86c175"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "fd2a26f0b88c1ebb9ff1d2899e8c0a3a92ced27d824edec33a3939bc91c925bc"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "i686"
-git-tree-sha1 = "acc3e200a7242ed25e4a7ee756034c6b45f862e6"
+git-tree-sha1 = "01ce51e94d1c655a9626f639d5fe7d02c3da6465"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[odrpack.download]]
-    sha256 = "57afeb8e7d128810e06665cf7845638b97b09bf18edd5a3ee5df3ecfde628619"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "003ba1ae6ec1fe63d69e34867928d16e79d82384c3c8ed7641d99f187a2e7683"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "i686"
-git-tree-sha1 = "ceef95fd09115764c94425d77cb8a79de159a040"
+git-tree-sha1 = "5a61b2553382239d527d24e4f4511407bf715c14"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[odrpack.download]]
-    sha256 = "cadd67bf82619a5ae36bbf0a96bbeed6d0f6f6255e2ce0d6754894cf458b12a4"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "469aab2dd7b48e1bde3858c7530560ee7ae133b97ea9dced0c4011c3e0741478"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "powerpc64le"
-git-tree-sha1 = "0f5824c314a8cb84cd27df0ef0197994bf9f06cf"
+git-tree-sha1 = "b57df0ed8dc63e6184143b602d0a9d265c4e45fd"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[odrpack.download]]
-    sha256 = "f137020a69f4d5df244cc63f26dbe880b397abbc93ef15306686e9f7d9da7fb9"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "5ebfaab18d999f24f74115a3fe3116cbaa23beac241de52d32759f60973c152f"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "riscv64"
-git-tree-sha1 = "990e5eb26004ba983c429eb129c34c51fb1fa167"
+git-tree-sha1 = "ec435e8686d9ffd7e2281d81a254d36a8dd07b4b"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[odrpack.download]]
-    sha256 = "2d0fc8ad67d3817c5272e5511cc7f85ba2814140b76075df3973d2998abcb26d"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.riscv64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "bf2cee6421c0704f6a833b152b7c2b2e3a7332d0247b89ac031d6f51c595fef4"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.riscv64-linux-gnu-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "x86_64"
-git-tree-sha1 = "263b903837227323e10654d0047f123256fd6a46"
+git-tree-sha1 = "45873c0b0de4b5b78ecd0e2751944cc82b9e251f"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[odrpack.download]]
-    sha256 = "926243c9f3a6803b26fd7e5a5dcb261bdaf235ed1c85e860ae7ee006b93f94bd"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "75fe8840044986858c78ec563ec951e14683c0753965fcd4d1590c4b8a201948"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "x86_64"
-git-tree-sha1 = "28cd6a6fac2272cfa8560c236d357db60487d5dd"
+git-tree-sha1 = "57ca081eeae1adf81239e61091f28b02734ffd54"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[odrpack.download]]
-    sha256 = "12c5b0ec32886c8327d560cd996edba8a9ff751c810d4ada36d815c956411ac5"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "0b044c1711fe7067516d8b5f80f2ece493166e67090d218cc3eb2357cc725c15"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "x86_64"
-git-tree-sha1 = "d34e42180fb06be72fb785ab377184b2cd0438f2"
+git-tree-sha1 = "3d085f3dca45ce41c443b9b6b26a810099c8d1f8"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[odrpack.download]]
-    sha256 = "dca16de649ef2bc9924180059bd82b4600edc7418b080ec16b5a8382bff90faa"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "039e6cc74cd1ccb01fd785fe9d035968d3edbbf0bb4b5f61a49e08c65fb8db49"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[odrpack]]
 arch = "x86_64"
-git-tree-sha1 = "30a4096bad126d7522c83c1166e8c74960858cb2"
+git-tree-sha1 = "90ed3a18ef5b6e1563fddbf55a5b4109359d661b"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[odrpack.download]]
-    sha256 = "ca9c782f15df8d0b4743825d50f89ad0fd36ad6df189d18e018adb9ce6a0166e"
-    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.0.3+0/odrpack.v2.0.3.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "90ea1ecc473593b69c9b7382f8c0fff9b3042be1c312cc378c13fd6eadb43d00"
+    url = "https://github.com/JuliaBinaryWrappers/odrpack_jll.jl/releases/download/odrpack-v2.1.0+0/odrpack.v2.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
